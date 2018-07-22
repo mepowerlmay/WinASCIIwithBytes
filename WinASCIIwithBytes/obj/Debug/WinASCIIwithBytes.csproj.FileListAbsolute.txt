@@ -1,0 +1,8 @@
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\bin\Debug\WinASCIIwithBytes.exe
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\bin\Debug\WinASCIIwithBytes.pdb
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.Form1.resources
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.Properties.Resources.resources
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.csproj.GenerateResource.Cache
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.csproj.CoreCompileInputs.cache
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.exe
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\WinASCIIwithBytes\obj\Debug\WinASCIIwithBytes.pdb

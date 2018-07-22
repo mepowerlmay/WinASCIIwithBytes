@@ -1,0 +1,6 @@
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Github\進位ASCII互轉\WinASCIIwithBytes\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
